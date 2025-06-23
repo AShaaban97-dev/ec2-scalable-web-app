@@ -32,9 +32,8 @@
 
 **Architecture Diagram**
 
-![A screenshot of a computer
+![image](https://github.com/user-attachments/assets/0a5d6ff0-1c56-427d-bca0-3dab8118ca8b)
 
-AI-generated content may be incorrect.](Aspose.Words.8e1ce654-c490-497e-bebe-00ed09e2fb3b.001.png)
 
 1. **Public internet → ALB listens on port 80**
 1. **ALB forwards HTTP traffic to EC2 instances across two AZs**
