@@ -32,7 +32,8 @@
 
 **Architecture Diagram**
 
-![image](https://github.com/user-attachments/assets/0a5d6ff0-1c56-427d-bca0-3dab8118ca8b)
+![image](https://github.com/user-attachments/assets/aedfc8ef-5398-4274-afe1-6cbdd82f6d96)
+
 
 
 1. **Public internet → ALB listens on port 80**
