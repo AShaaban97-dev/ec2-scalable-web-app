@@ -20,6 +20,7 @@
 **This project deploys a web application using:**
 
 - **EC2 instances across two public subnets for high availability**
+- **Multi-AZ RDS instances for high availability**
 - **Application Load Balancer (ALB) distributing traffic**
 - **Auto Scaling Group (ASG) for scaling based on load**
 - **CloudWatch alarms tracking CPU metrics**
